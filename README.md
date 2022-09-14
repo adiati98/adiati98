@@ -110,7 +110,13 @@ You can find me here 👇
 
 ### ✍ Writer
 
+#### 2022
+
+- Top 7 DEV — [September](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4phi) 2022
 - Top Stories from Hashnode on Hashnode's Weekly Digest #87 — [March](http://e.customeriomail.com/deliveries/RIDfBQMAAX95cXsCeohFOugRJfs-Ug==) 2022
+
+#### 2021
+
 - Gained OSS Documentarian & OSS Mentor badges for Open Source October on Hashnode — [November](https://townhall.hashnode.com/oss-grant-badge-winners) 2021
 - Featured articles on Hashnode — [June](https://adiati.com/lesson-learned-massive-burnout-in-learning-web-development), [September](https://adiati.com/i-have-been-writing-a-blog-for-10-months-here-is-my-story) 2021
 - CodeNewbie Community Spotlight — [April](https://community.codenewbie.org/codenewbie/ayu-polyglot-latte-lover-codenewbie-149m) 2021
