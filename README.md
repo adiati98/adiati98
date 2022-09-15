@@ -77,8 +77,9 @@ You can find me here 👇
   <img src="https://img.shields.io/badge/-Cypress-FADDC6?logo=cypress&logoColor=17202C&style=for-the-badge&logoWidth=30" alt="Cypress">
   <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
+  <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Remix-FADDC6?logo=remix&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Remix">
   <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
-  <img src="https://img.shields.io/badge/-Eleventy-FADDC6?logo=eleventy&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Eleventy">
 </div>
 
 <br> 
