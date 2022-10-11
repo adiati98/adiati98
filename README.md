@@ -113,6 +113,7 @@ You can find me here 👇
 
 #### 2022
 
+- Top 10 [Noteworthy Authors](https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners#heading-noteworthy-authors) 4articles4weeks Writeathon on Hashnode — [October](https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners) 2022
 - Top 7 DEV — [September](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4phi) 2022
 - Top Stories from Hashnode on Hashnode's Weekly Digest #87 — [March](http://e.customeriomail.com/deliveries/RIDfBQMAAX95cXsCeohFOugRJfs-Ug==) 2022
 
