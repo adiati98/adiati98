@@ -86,6 +86,14 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
+## 😎 [Section of The Month — October 2022] Hacktoberfest 2022
+
+[![@adiati98's Holopin board](https://holopin.io/api/user/board?user=adiati98)](https://holopin.io/@adiati98)
+
+<br> 
+
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
+
 ## ⭐ Contribution Stats
 
 <div align="center">
@@ -214,8 +222,6 @@ You can find me here 👇
 ![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
   
 </div>
-
-[![@adiati98's Holopin board](https://holopin.io/api/user/board?user=adiati98)](https://holopin.io/@adiati98)
 
 ![Footer](https://user-images.githubusercontent.com/45172775/179351922-cb6ccac8-0740-4b83-a43e-68569875206d.svg)
 
