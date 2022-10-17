@@ -86,7 +86,7 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-## 😎 [Section of The Month — October 2022] Hacktoberfest 2022
+## 🎃 [Special Section — October 2022] Hacktoberfest 2022
 
 [![@adiati98's Holopin board](https://holopin.io/api/user/board?user=adiati98)](https://holopin.io/@adiati98)
 
