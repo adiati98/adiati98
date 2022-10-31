@@ -122,6 +122,7 @@ You can find me here 👇
 
 #### 2022
 
+- Top 10 [Web Development Articles to read in the week](https://twitter.com/hashnode/status/1587052673060200449?s=20&t=7fZy-Vp8UVC3JK_Ka1iPbA) — [October](https://twitter.com/hashnode/status/1587052635156275201) 2022
 - Top 10 [Noteworthy Authors](https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners#heading-noteworthy-authors) 4articles4weeks Writeathon on Hashnode — [October](https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners) 2022
 - Top 7 DEV — [September](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4phi) 2022
 - Top Stories from Hashnode on Hashnode's Weekly Digest #87 — [March](http://e.customeriomail.com/deliveries/RIDfBQMAAX95cXsCeohFOugRJfs-Ug==) 2022
