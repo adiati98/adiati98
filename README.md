@@ -187,11 +187,11 @@ You can find me here 👇
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2022-11-09` | [Collective NaNoWriMo: Let&#39;s Write Together!](https://adiati.com/collective-nanowrimo-lets-write-together)  
 - `2022-09-12` | [Mini Portfolio: Bring Your GitHub Profile To The Next Level](https://adiati.com/mini-portfolio-bring-your-github-profile-to-the-next-level)  
 - `2022-09-03` | [What I Learned From Collaboration In Building An E-commerce Product Page](https://adiati.com/what-i-learned-from-collaboration-in-building-an-e-commerce-product-page)  
 - `2022-08-27` | [How To Get Unstuck In Coding With The Power Of Community](https://adiati.com/how-to-get-unstuck-in-coding-with-the-power-of-community)  
 - `2022-08-22` | [Failing Is Not Failure — What I Learned From Failed Interviews](https://adiati.com/failing-is-not-failure-what-i-learned-from-failed-interviews)  
-- `2022-05-03` | [Turn Your Blog Post Into A Virtual Talk](https://adiati.com/turn-your-blog-post-into-a-virtual-talk)  
 
 <!-- BLOG-POST-LIST:END -->
 
