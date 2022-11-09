@@ -23,7 +23,9 @@
 - [⚡ Fun Fact About Me](#-fun-fact-about-me)
 -->
 
-I am a front-end software engineer with a strong interest in building projects that are accessible to everyone.
+I am a front-end developer and a tech blogger based in The Netherlands.
+
+I have a strong interest in building projects that are accessible to everyone.
 
 Learning new things fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu).
 
