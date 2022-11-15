@@ -187,7 +187,7 @@ You can find me here 👇
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- `2022-11-14` | [I Learned About Audio Accessibility &lpar;And More!&rpar; From Improving Tech Podcast Transcriptions](https://adiati.com/i-learned-about-audio-accessibility-and-more-from-improving-tech-podcast-transcriptions)  
+- `2022-11-14` | [I Learned About Audio Media Accessibility &lpar;And More!&rpar; From Improving Tech Podcast Transcriptions](https://adiati.com/i-learned-about-audio-media-accessibility-and-more-from-improving-tech-podcast-transcriptions)  
 - `2022-11-09` | [Collective NaNoWriMo: Let&#39;s Write Together!](https://adiati.com/collective-nanowrimo-lets-write-together)  
 - `2022-09-12` | [Mini Portfolio: Bring Your GitHub Profile To The Next Level](https://adiati.com/mini-portfolio-bring-your-github-profile-to-the-next-level)  
 - `2022-09-03` | [What I Learned From Collaboration In Building An E-commerce Product Page](https://adiati.com/what-i-learned-from-collaboration-in-building-an-e-commerce-product-page)  
