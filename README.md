@@ -188,11 +188,11 @@ You can find me here 👇
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2023-01-10` | [Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://adiati.com/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community)  
 - `2022-11-30` | [What Makes You Stay In A Community?](https://adiati.com/what-makes-you-stay-in-a-community)  
 - `2022-11-29` | [7 Supportive Tech Communities You Want To Be Part Of](https://adiati.com/7-supportive-tech-communities-you-want-to-be-part-of)  
 - `2022-11-26` | [Planning And Tracking Projects With GitHub&#39;s Projects Tool](https://adiati.com/planning-and-tracking-projects-with-githubs-projects-tool)  
 - `2022-11-23` | [Audio Media Accessibility: How To Improve Audio Media Transcriptions](https://adiati.com/audio-media-accessibility-how-to-improve-audio-media-transcriptions)  
-- `2022-11-14` | [I Learned About Audio Media Accessibility &lpar;And More!&rpar; From Improving Tech Podcast Transcriptions](https://adiati.com/i-learned-about-audio-media-accessibility-and-more-from-improving-tech-podcast-transcriptions)  
 
 <!-- BLOG-POST-LIST:END -->
 
