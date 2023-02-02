@@ -123,6 +123,10 @@ You can find me here 👇
 
 ### ✍ Writer
 
+#### 2023
+
+- Won January's [Blog-a-thon challenge](https://twitter.com/thecocode/status/1611969213496987648) by CoCode and Hashnode — [January](https://twitter.com/thecocode/status/1621042854436179970) 2023
+
 #### 2022
 
 - Top 10 [Web Development Articles to read in the week](https://twitter.com/hashnode/status/1587052673060200449?s=20&t=7fZy-Vp8UVC3JK_Ka1iPbA) — [October](https://twitter.com/hashnode/status/1587052635156275201) 2022
