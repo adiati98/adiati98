@@ -145,8 +145,13 @@ You can find me here 👇
 
 ### 🗣 Presentations & Speaking Engagements
 
+#### 2022
+
 - [The Challenges of Self-Taught Dev and How to Overcome Them — Virtual Coffee Lightning Talks 2022](https://www.youtube.com/watch?v=CP9drTHQL-Y&t=8s)
 - [The Collab Lab: Project Collaboration Program — Virtual Coffee Lunch & Learn](https://youtu.be/BtJTeGuUKTM)
+
+#### 2021
+
 - [Recess Video on CodeLand 2021](https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be)
 - [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
 - [TCL-35: Weekly Sync 6 - Demos and Retros](https://www.youtube.com/watch?v=RGufaZFAJA8)
