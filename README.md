@@ -113,7 +113,7 @@ You can find me here 👇
 
 ## 🏆 Accomplishments
 
-### 👩‍💻 Developer
+### 👩‍💻 General
 
 - Completed Hacktoberfest 2022 — October 2022
 - Featured on Awesome Developer Diaries newsletter — [March](https://buttondown.email/awesomedeveloperdiaries/archive/victorias-edition-meet-ayu-and-how-to-get/) 2022
