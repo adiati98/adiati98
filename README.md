@@ -113,11 +113,13 @@ You can find me here 👇
 
 ## 🏆 Accomplishments
 
-### 👩‍💻 General
+### 👩‍💻 Learning
+
+- Graduated from The Collab Lab's project collaboration program — December 2021
+
+### 🎃 Hacktoberfest
 
 - Completed Hacktoberfest 2022 — October 2022
-- Featured on Awesome Developer Diaries newsletter — [March](https://buttondown.email/awesomedeveloperdiaries/archive/victorias-edition-meet-ayu-and-how-to-get/) 2022
-- Graduated from The Collab Lab's project collaboration program — December 2021
 - Completed Hacktoberfest 2021 — October 2021
 - Completed Hacktoberfest 2019 — October 2019
 
