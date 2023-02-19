@@ -117,6 +117,16 @@ You can find me here 👇
 
 - Graduated from The Collab Lab's project collaboration program — December 2021
 
+### 📎 Open Source Contributions
+
+- [Virtual Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io)
+- [Virtual Coffee — Podcast Transcript](https://github.com/Virtual-Coffee/podcast-transcripts)
+- [Software Engineering Unlocked Podcast](https://github.com/mgreiler/se-unlocked)
+- [Eddie Hub Community — LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+- [Eddie Hub Community — Support](https://github.com/EddieHubCommunity/support)
+- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Drone — Docs](https://github.com/drone/docs)
+
 ### 🎃 Hacktoberfest
 
 - Completed Hacktoberfest 2022 — October 2022
