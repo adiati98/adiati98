@@ -34,8 +34,9 @@ I also have a deep passion for collaborations, contributing to open sources, and
 You can find me here 👇
 
 <div align="center">
-<a href="https://www.linkedin.com/in/adiatiayu/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/adiatiayu/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
 <a href="https://twitter.com/AdiatiAyu"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
+<a href="https://hachyderm.io/@AdiatiAyu"><img src="https://img.shields.io/badge/-Mastodon-F3F7FA?logo=mastodon&logoColor=6364FF&style=for-the-badge&logoWidth=30" alt="Mastodon"></a>
 <a href="https://www.polywork.com/adiatiayu"><img src="https://img.shields.io/badge/-Polywork-F3F7FA?logo=polywork&logoColor=543DE0&style=for-the-badge&logoWidth=30" alt="Polywork"></a>
 <a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-F3F7FA?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
 <a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-F3F7FA?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
