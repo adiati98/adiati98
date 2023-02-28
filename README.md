@@ -158,6 +158,10 @@ You can find me here 👇
 
 ### 🗣 Presentations & Speaking Engagements
 
+#### 2023
+
+- [The Power of Communities for Self-Taught Developers — Women Who Code Career Nav](https://www.womenwhocode.com/blog/career-nav-34-the-power-of-communities-for-self-taught-developers)
+
 #### 2022
 
 - [The Challenges of Self-Taught Dev and How to Overcome Them — Virtual Coffee Lightning Talks 2022](https://www.youtube.com/watch?v=CP9drTHQL-Y&t=8s)
