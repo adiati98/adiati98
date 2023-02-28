@@ -160,7 +160,7 @@ You can find me here 👇
 
 #### 2023
 
-- [The Power of Communities for Self-Taught Developers — Women Who Code Career Nav](https://www.womenwhocode.com/blog/career-nav-34-the-power-of-communities-for-self-taught-developers)
+- [The Power of Communities for Self-Taught Developers — Women Who Code Career Nav Podcast](https://www.womenwhocode.com/blog/career-nav-34-the-power-of-communities-for-self-taught-developers)
 
 #### 2022
 
