@@ -116,9 +116,84 @@ You can find me here 👇
 
 ## 🏆 Accomplishments
 
-### 👩‍💻 Learning
+<!--
+<details>
+  <summary>
+    <h3>👩‍💻 Learning</h3>
+  </summary>
+    <ul>
+      <li>Graduated from The Collab Lab's project collaboration program — December 2021</li>
+    </ul>
+</details>
+<details>
+  <summary>
+    <h3>📎 Open Source Contributions</h3>
+  </summary>
+  <ul>
+    <li><a href="https://github.com/Virtual-Coffee/virtualcoffee.io/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+">Virtual Coffee</a></li>
+    <li><a href="https://github.com/Virtual-Coffee/podcast-transcripts/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+">Virtual Coffee — Podcast Transcript</a></li>
+    <li><a href="https://github.com/mgreiler/se-unlocked/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+">Software Engineering Unlocked Podcast</a></li>
+    <li><a href="https://github.com/EddieHubCommunity/LinkFree/pulls?q=is%3Apr+is%3Aclosed+author%3Aadiati98+">Eddie Hub Community — LinkFree</a></li>
+    <li><a href="https://github.com/EddieHubCommunity/support/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+">Eddie Hub Community — Support</a></li>
+    <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+">DenverCoder1 — GitHub Readme Streak Stats</a></li>
+    <li><a href="https://github.com/drone/docs/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+">Drone — Docs</a></li>
+  </ul>
+</details>
 
-- Graduated from The Collab Lab's project collaboration program — December 2021
+<details>
+  <summary>
+    <h3>🎃 Hacktoberfest</h3>
+  </summary>
+  <ul>
+    <li>Completed Hacktoberfest 2022</li>
+    <li>Completed Hacktoberfest 2021</li>
+    <li>Completed Hacktoberfest 2019</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h3>✍ Writer</h3>
+  </summary>
+   <h4>2023</h4>
+   <ul>
+     <li><a href="https://adiati.com/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community">Tips From A Shy Introvert: How To Engage And Get More Involved In A Community</a>won January's Blog-a-thon challenge by CoCode and Hashnode — <a href="https://twitter.com/thecocode/status/1621042854436179970">January</a> 2023</li>
+   </ul>
+   <h4>2022</h4>
+  <ul>
+    <li>Top 10 <a href="https://twitter.com/hashnode/status/1587052673060200449?s=20&t=7fZy-Vp8UVC3JK_Ka1iPbA">Web Development Articles to read in the week</a> — <a href="https://twitter.com/hashnode/status/1587052635156275201">October</a> 2022</li>
+    <li>Top 10 <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners#heading-noteworthy-authors">Noteworthy Authors</a> 4articles4weeks Writeathon on Hashnode — <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">October</a> 2022</li>
+    <li>Top 7 DEV — <a href="https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4phi">September</a> 2022</li>
+  </ul>
+  <h4>2021</h4>
+  <ul>
+    <li>Gained OSS Documentarian & OSS Mentor badges for Open Source October on Hashnode — <a href="https://townhall.hashnode.com/oss-grant-badge-winners">November</a> 2021</li>
+    <li>
+      Featured articles on Hashnode
+      <ul>
+        <li><a href="https://adiati.com/lesson-learned-massive-burnout-in-learning-web-development">Lesson Learned: Massive Burnout In Learning Web Development</a> — June 2021</li>
+        <li><a href="https://adiati.com/i-have-been-writing-a-blog-for-10-months-here-is-my-story">I Have Been Writing A Blog For 10 Months: Here Is My Story</a> — September 2021</li>
+      </ul>
+    </li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h3></h3>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <h3></h3>
+  </summary>
+</details>
+-->
 
 ### 📎 Open Source Contributions
 
@@ -140,7 +215,7 @@ You can find me here 👇
 
 #### 2023
 
-- Won January's [Blog-a-thon challenge](https://twitter.com/thecocode/status/1611969213496987648) by CoCode and Hashnode — [January](https://twitter.com/thecocode/status/1621042854436179970) 2023
+- “[Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://adiati.com/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community)” won January's Blog-a-thon challenge by CoCode and Hashnode — [January](https://twitter.com/thecocode/status/1621042854436179970) 2023
 
 #### 2022
 
