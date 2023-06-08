@@ -266,6 +266,7 @@ You can find me here 👇
 ### [The Collab Lab](https://the-collab-lab.codes/volunteer/)
 
 - **Code of Conduct Responder**
+- **Mentor**
 - **Social Media Committee**
 
 ### [CodeNewbie](https://community.codenewbie.org/adiatiayu)
