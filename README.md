@@ -197,19 +197,13 @@ You can find me here 👇
 
 ### 📎 Open Source Contributions
 
-- [Virtual Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io)
-- [Virtual Coffee — Podcast Transcript](https://github.com/Virtual-Coffee/podcast-transcripts)
-- [Software Engineering Unlocked Podcast](https://github.com/mgreiler/se-unlocked)
-- [Eddie Hub Community — LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-- [Eddie Hub Community — Support](https://github.com/EddieHubCommunity/support)
-- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Drone — Docs](https://github.com/drone/docs)
-
-### 🎃 Hacktoberfest
-
-- Completed Hacktoberfest 2022 — October 2022
-- Completed Hacktoberfest 2021 — October 2021
-- Completed Hacktoberfest 2019 — October 2019
+- [Virtual Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
+- [Virtual Coffee — Podcast Transcript](https://github.com/Virtual-Coffee/podcast-transcripts/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
+- [Eddie Hub Community — Support](https://github.com/EddieHubCommunity/support/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
+- [Eddie Hub Community — LinkFree](https://github.com/EddieHubCommunity/LinkFree/pulls?q=is%3Apr+is%3Aclosed+author%3Aadiati98)
+- [Drone — Docs](https://github.com/drone/docs/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
+- [Software Engineering Unlocked Podcast](https://github.com/mgreiler/se-unlocked/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
+- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
 
 ### ✍ Writer
 
@@ -265,8 +259,8 @@ You can find me here 👇
 
 ### [The Collab Lab](https://the-collab-lab.codes/volunteer/)
 
-- **Code of Conduct Responder**
 - **Mentor**
+- **Code of Conduct Responder**
 - **Social Media Committee**
 
 ### [CodeNewbie](https://community.codenewbie.org/adiatiayu)
