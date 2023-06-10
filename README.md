@@ -21,7 +21,8 @@
   - [Hashnode](#hashnode)
 - [📰 Latest Blog Posts](#-latest-blog-posts)
 - [⚡ Fun Fact About Me](#-fun-fact-about-me)
--->
+
+---
 
 I am a front-end developer and a tech blogger based in The Netherlands.
 
@@ -30,8 +31,17 @@ I have a strong interest in building projects that are accessible to everyone.
 Learning new things fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu).
 
 I also have a deep passion for collaborations, contributing to open sources, and community engagements.
+-->
 
-You can find me here 👇
+I'm a front-end developer and a tech blogger based in the Netherlands, and I absolutely *love* what I do. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
+
+The thrill of learning something new is like a burst of energy that keeps me going. And guess what? I'm not one to keep all that knowledge to myself. I love to **share my learnings and experiences** with others through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu). It's my way of giving back, spreading knowledge, and igniting that same spark in others.
+
+But there's more to me than just coding and blogging. I deeply value **collaborations, open source contributions, and being an active part of the community**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
+
+I highly value **work-life balance**. I believe that a happy and fulfilled life outside of work positively impacts our professional life. That's why I value a **flexible approach to work**; the freedom to work when and where we feel most productive. It's all about finding that sweet spot where productivity and personal well-being meet.
+
+In a nutshell, I'm all about *creating awesome tech, sharing knowledge, and building a supportive community*. I value **diversity, inclusion, personal growth, mentorship, and a flexible work environment**. Let's connect!
 
 <div align="center">
 <a href="https://www.linkedin.com/in/adiatiayu/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
@@ -301,13 +311,13 @@ You can find me here 👇
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ## ⚡ Fun Fact About Me
-🗣 I speak four languages — Indonesian, English, Dutch, and Japanese.
+🗣 I can speak four languages: Indonesian, English, Dutch, and Japanese.
 
-:sparkles: When I'm not coding, you would see me cuddling with my daughter, having my DSLR camera in my hands, bullet/scrap journaling, or watching a movie.
+:sparkles: When I'm not coding, you'll find me enjoying precious moments with my daughter, capturing memories with my trusty camera, getting creative with bullet/scrap journaling, or simply relaxing with a good movie.
 
-☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
+☕ I'm obsessed with **ICED** (Caramel Macchiato) Latte! Whether the sun is shining or snow is falling, I can't resist the deliciousness of that drink. It's my go-to beverage for all seasons!
 
-🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
+🤓 I'm totally a lifelong learner. Problem-solving gets me all pumped up, and when I crack a solution, you might just catch me doing a little happy dance! :penguin:
 
 <br> 
 
