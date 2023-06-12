@@ -121,7 +121,7 @@ The thrill of learning something new is like a burst of energy that keeps me goi
 
 But there's more to me than just coding and blogging. I deeply value **collaborations, open source contributions, and being an active part of the community**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
 
-### Fun Fact
+## Fun Fact
       
 🗣 I can speak four languages: Indonesian, English, Dutch, and Japanese.
 
