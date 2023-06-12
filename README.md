@@ -286,7 +286,7 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 <details>
   <summary>
-    <h3>🗣 Presentations & Speaking Engagements</h3>
+    <h3>🗣 Speaking Engagements</h3>
   </summary>
   <h4>2023</h4>
   <ul>
