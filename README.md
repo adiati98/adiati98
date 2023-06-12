@@ -1,6 +1,6 @@
 ![Ayu Adiati Banner](https://user-images.githubusercontent.com/45172775/179356306-9a3522a8-b26d-47b8-bfdf-bd052dbb36ce.svg)
 
-# Hi there! I'm Ayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hi there! I'm Ayu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <!--
 ## 🔎 What you will find here
@@ -121,7 +121,7 @@ The thrill of learning something new is like a burst of energy that keeps me goi
 
 But there's more to me than just coding and blogging. I deeply value **collaborations, open source contributions, and being an active part of the community**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
 
-### Fun Fact About Me
+### Fun Fact
       
 🗣 I can speak four languages: Indonesian, English, Dutch, and Japanese.
 
@@ -275,7 +275,7 @@ But there's more to me than just coding and blogging. I deeply value **collabora
     <li>Top 7 DEV — <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-5h5d">March</a>, <a href="https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3h2i">August</a>, <a href="https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-35fb">November</a> 2021
       <ul>
         <li><a href="https://dev.to/adiatiayu/contributing-to-open-source-101-2dnm">Contributing To Open-Source 101</a> — November 2021</li>
-        <li><a href="https://dev.to/adiatiayu/project-collaboration-and-pair-programming-4be6">Project Collaboration And Pair Programming — August 2021</a></li>
+        <li><a href="https://dev.to/adiatiayu/project-collaboration-and-pair-programming-4be6">Project Collaboration And Pair Programming</a> — August 2021</li>
         <li><a href="https://dev.to/adiatiayu/10-free-and-affordable-resources-to-learn-frontend-web-development-1ehb">10+ Free And Affordable Resources To Learn Frontend Web Development</a> — March 2021</li>
       </ul>
     </li>
