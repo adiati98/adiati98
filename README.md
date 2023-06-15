@@ -310,7 +310,7 @@ But there's more to me than just coding and blogging. I deeply value **collabora
   <summary>
     <h3>👥 Community Activities</h3>
   </summary>
-  <h4><a href="https://virtualcoffee.io/members/">Virtual Coffe</a></h4>
+  <h4><a href="https://virtualcoffee.io/members/">Virtual Coffee</a></h4>
   <ul>
     <li><strong>Documentation Lead</strong></li>
     <li><strong>Advisor</strong></li>
