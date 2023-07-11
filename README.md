@@ -227,11 +227,11 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2023-07-11` | [Building Portfolio: Add Pages](https://adiati.com/building-portfolio-add-pages)  
 - `2023-07-10` | [Building Portfolio: Install Next.js and Tailwind with pnpm](https://adiati.com/building-portfolio-install-nextjs-and-tailwind-with-pnpm)  
 - `2023-07-05` | [Getting Back to Coding with Learning and Building in Public](https://adiati.com/getting-back-to-coding-with-learning-and-building-in-public)  
 - `2023-01-10` | [Tips From A Shy Introvert: How To Engage And Get More Involved In A Community](https://adiati.com/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community)  
 - `2022-11-30` | [What Makes You Stay In A Community?](https://adiati.com/what-makes-you-stay-in-a-community)  
-- `2022-11-29` | [7 Supportive Tech Communities You Want To Be Part Of](https://adiati.com/7-supportive-tech-communities-you-want-to-be-part-of)  
 
 <!-- BLOG-POST-LIST:END -->
 
