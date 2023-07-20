@@ -227,11 +227,11 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2023-07-20` | [Building Portfolio with Next.js: Add Navbar, Footer, and Metadata](https://adiati.com/building-portfolio-with-nextjs-add-navbar-footer-and-metadata)  
 - `2023-07-19` | [Building Portfolio with Next.js: Migrate to App Router](https://adiati.com/building-portfolio-with-nextjs-migrate-to-app-router)  
 - `2023-07-12` | [How to Install pnpm with npm on Windows 11](https://adiati.com/how-to-install-pnpm-with-npm-on-windows-11)  
 - `2023-07-11` | [Building Portfolio with Next.js: Add Pages](https://adiati.com/building-portfolio-with-nextjs-add-pages)  
 - `2023-07-10` | [Building Portfolio: Install Next.js and Tailwind with pnpm](https://adiati.com/building-portfolio-install-nextjs-and-tailwind-with-pnpm)  
-- `2023-07-05` | [Getting Back to Coding with Learning and Building in Public](https://adiati.com/getting-back-to-coding-with-learning-and-building-in-public)  
 
 <!-- BLOG-POST-LIST:END -->
 
