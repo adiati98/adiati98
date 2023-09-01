@@ -117,7 +117,7 @@ In a nutshell, I'm all about *creating awesome tech, sharing knowledge, and buil
 
 I'm a front-end developer and a tech blogger based in the Netherlands, and I absolutely *love* what I do. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
-I **love learning something new**! It's like a burst of energy that keeps me going. And guess what? I'm not one to keep all that knowledge to myself! I love to **share my learnings and experiences** with others through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu). It's my way of giving back, spreading knowledge, and learning together.
+I **love learning something new**! And I love to **share my learnings and experiences** with others through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu). It's my way of giving back, spreading knowledge, and learning together.
 
 But there's more to me than just coding and blogging. I deeply value **collaborations, open source contributions, and being an active part of the tech communities**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
 
