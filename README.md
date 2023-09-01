@@ -332,7 +332,11 @@ But there's more to me than just coding and blogging. I deeply value **collabora
   </ul>
   <h4><a href="https://dev.to/adiatiayu">DEV</a></h4>
   <ul>
-    <li><strong>Moderator (Trusted User)</strong></li>
+    <li><strong>Moderator (Trusted User)</strong>
+      <ul>
+        <li><a href="https://dev.to/devteam/featured-mod-of-the-month-ayu-adiati-3o1e">Featured Mod of the Month: Ayu Adiati</a> — August 2023</li>
+      </ul>
+    </li>
     <li>Active writer</li>
   </ul>
   <h4><a href="https://hashnode.com/@adiatiayu">Hashnode</a></h4>
