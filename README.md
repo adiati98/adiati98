@@ -202,13 +202,37 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 ## 📎 Open Source Contributions
 
-- [Virtual Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
-- [Virtual Coffee — Podcast Transcript](https://github.com/Virtual-Coffee/podcast-transcripts/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
-- [Eddie Hub Community — Support](https://github.com/EddieHubCommunity/support/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
-- [Eddie Hub Community — LinkFree](https://github.com/EddieHubCommunity/LinkFree/pulls?q=is%3Apr+is%3Aclosed+author%3Aadiati98)
-- [Drone — Docs](https://github.com/drone/docs/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
-- [Software Engineering Unlocked Podcast](https://github.com/mgreiler/se-unlocked/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
-- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed+)
+### Pull Requests
+
+- [Virtual Coffee — virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed)
+- [Virtual Coffee — Podcast Transcripts](https://github.com/Virtual-Coffee/podcast-transcripts/pulls/adiati98)
+- [Virtual Coffee — VC Preptember](https://github.com/Virtual-Coffee/vc-preptember/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed)
+- [OpenSauced](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+open-sauced+)
+- [SheSharp](https://github.com/shesharpnl/knowledge-hub/pulls?q=is%3Apr+is%3Aclosed+author%3Aadiati98+)
+- [The Collab Lab](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+the-collab-lab)
+- [Software Engineering Unlock podcast](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+mgreiler)
+- [EddieHub Community](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+eddiehub)
+- [Drone by Harness](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+drone)
+- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+denvercoder1)
+
+### Issues
+
+- [Virtual Coffee](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aadiati98+archived%3Afalse+virtual-coffee)
+- [OpenSauced/app](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aadiati98+archived%3Afalse+open-sauced)
+- [OpenSauced/guestbook](https://github.com/open-sauced/guestbook/issues?q=is%3Aissue+is%3Aclosed+adiati98)
+- [OpenSauced/100 Days of OSS](https://github.com/open-sauced/100-days-of-oss-template/issues?q=is%3Aissue+author%3Aadiati98)
+- [SheSharp](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aadiati98+archived%3Afalse+shesharp)
+- [The Collab Lab](https://github.com/issues?q=is%3Aissue+author%3Aadiati98+archived%3Afalse+the+collab+lab+is%3Aclosed)
+- [EddieHub Community](https://github.com/issues?q=is%3Aissue+author%3Aadiati98+archived%3Afalse+eddiehub)
+- [Forem](https://github.com/forem/forem/issues/19689)
+- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats/issues/278)
+
+### Blog Posts
+
+- [How to Contribute to Open Source Projects – Non-Technical Things You Should Know — freeCodeCamp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source/)
+- [How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners — freeCodeCamp](https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/)
+- [Open Source and Git Glossary](https://dev.to/adiatiayu/open-source-and-git-glossary-mn2)
+- [How to Communicate Better in Open Source](https://dev.to/adiatiayu/how-to-communicate-better-in-open-source-3hdj)
 
 <br>
 
