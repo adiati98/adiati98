@@ -259,11 +259,11 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2023-11-22` | [How to Resolve Merge Conflicts Using the Merge Editor Feature on VS Code](https://adiati.com/how-to-resolve-merge-conflicts-using-the-merge-editor-feature-on-vs-code)  
 - `2023-11-21` | [Building Your Brand as a Developer Through Open Source](https://adiati.com/building-your-brand-as-a-developer-through-open-source)  
 - `2023-09-11` | [#100DaysOfOSS Recap: Day 28-50](https://adiati.com/100daysofoss-recap-day-28-50)  
 - `2023-08-30` | [Open Source and Git Glossary](https://adiati.com/open-source-and-git-glossary)  
 - `2023-08-18` | [#100DaysOfOSS Recap: Day 15-27](https://adiati.com/100daysofoss-recap-day-15-27)  
-- `2023-08-14` | [How to Communicate Better in Open Source](https://adiati.com/how-to-communicate-better-in-open-source)  
 
 <!-- BLOG-POST-LIST:END -->
 
