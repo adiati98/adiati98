@@ -190,13 +190,13 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-## 🎃 [Special Section — October 2023] Hacktoberfest 2023
+<!-- ## 🎃 [Special Section — October 2023] Hacktoberfest 2023
 
 [![An image of @adiati981's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adiati981)](https://holopin.io/@adiati981)
 
 <br> 
 
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg) -->
 
 <!--
 ## 🎃 [Special Section — October 2022] Hacktoberfest 2022
