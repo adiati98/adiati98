@@ -98,7 +98,7 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 ## 📎 Open Source Activities
 
-### Maintainer
+### 🔧 Maintainer
 
 #### [OpenSauced](https://opensauced.pizza/)
 
@@ -116,11 +116,11 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 [All project repositories](https://github.com/shesharpnl) of SheSharp community.
 
-### Contributor
+### 🤝 Contributor
 
 The highlights of my PR and issue contributions are available on my [Highlights Page](https://app.opensauced.pizza/user/adiati98?tab=highlights) at OpenSauced.
 
-### Blog Posts
+### 📰 Blog Posts
 
 #### freeCodeCamp
 
