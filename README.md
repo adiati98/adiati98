@@ -118,7 +118,7 @@ All project repositories of [SheSharp community](https://github.com/shesharpnl).
 
 ### Contributor
 
-The highlights of my PR and issue contributions are available on [my profile at OpenSauced](https://app.opensauced.pizza/user/adiati98?tab=highlights).
+The highlights of my PR and issue contributions are available on [my Highlights Page at OpenSauced](https://app.opensauced.pizza/user/adiati98?tab=highlights).
 
 ### Blog Posts
 
