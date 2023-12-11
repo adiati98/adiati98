@@ -96,39 +96,44 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 -->
 
-## 📎 Open Source Contributions
+## 📎 Open Source Activities
 
-### Pull Requests
+### Maintainer
 
-- [Virtual Coffee — virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed)
-- [Virtual Coffee — Podcast Transcripts](https://github.com/Virtual-Coffee/podcast-transcripts/pulls/adiati98)
-- [Virtual Coffee — VC Preptember](https://github.com/Virtual-Coffee/vc-preptember/pulls?q=is%3Apr+author%3Aadiati98+is%3Aclosed)
-- [OpenSauced](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+open-sauced+)
-- [SheSharp](https://github.com/shesharpnl/knowledge-hub/pulls?q=is%3Apr+is%3Aclosed+author%3Aadiati98+)
-- [The Collab Lab](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+the-collab-lab)
-- [Software Engineering Unlock podcast](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+mgreiler)
-- [EddieHub Community](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+eddiehub)
-- [Drone by Harness](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+drone)
-- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+author%3Aadiati98+denvercoder1)
+#### OpenSauced
 
-### Issues
+- **[open-sauced / docs](https://github.com/open-sauced/docs)**: Documentation of OpenSauced
+- **[open-sauced / intro](https://github.com/open-sauced/intro)**: Intro to Open Source course with OpenSauced
+- **[open-sauced / guestbook](https://github.com/open-sauced/guestbook)**: A place for people who have taken OpenSauced's "Intro to Open Source" course to take their first steps into contributing to open source.
+- **[open-sauced / pizza-verse](https://github.com/open-sauced/pizza-verse)**: A collaborative project to contribute pizza-related content.
 
-- [Virtual Coffee](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aadiati98+archived%3Afalse+virtual-coffee)
-- [OpenSauced/app](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aadiati98+archived%3Afalse+open-sauced)
-- [OpenSauced/guestbook](https://github.com/open-sauced/guestbook/issues?q=is%3Aissue+is%3Aclosed+adiati98)
-- [OpenSauced/100 Days of OSS](https://github.com/open-sauced/100-days-of-oss-template/issues?q=is%3Aissue+author%3Aadiati98)
-- [SheSharp](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aadiati98+archived%3Afalse+shesharp)
-- [The Collab Lab](https://github.com/issues?q=is%3Aissue+author%3Aadiati98+archived%3Afalse+the+collab+lab+is%3Aclosed)
-- [EddieHub Community](https://github.com/issues?q=is%3Aissue+author%3Aadiati98+archived%3Afalse+eddiehub)
-- [Forem](https://github.com/forem/forem/issues/19689)
-- [DenverCoder1 — GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats/issues/278)
+#### Virtual Coffee
+
+- **[Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)**: Transcripts for Virtual Coffee podcast.
+- **[Virtual-Coffee / vc-preptember](https://github.com/Virtual-Coffee/vc-preptember)**: A special repository for Virtual Coffee members to prepare themselves for Hacktoberfest by practicing open source.
+
+#### SheSharp
+
+All project repositories of [SheSharp community](https://github.com/shesharpnl).
+
+### Contributor
+
+The highlights of my PR and issue contributions are available on [my profile at OpenSauced](https://app.opensauced.pizza/user/adiati98?tab=highlights).
 
 ### Blog Posts
 
-- [How to Contribute to Open Source Projects – Non-Technical Things You Should Know — freeCodeCamp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source/)
-- [How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners — freeCodeCamp](https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/)
+#### freeCodeCamp
+
+- [How to Contribute to Open Source Projects – Non-Technical Things You Should Know](https://www.freecodecamp.org/news/how-to-contribute-to-open-source/)
+- [How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners](https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/)
+- [How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code](https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/)
+
+#### Dev.to
+
+- [Building Your Brand as a Developer Through Open Source](https://dev.to/adiatiayu/building-your-brand-as-a-developer-through-open-source-djl)
 - [Open Source and Git Glossary](https://dev.to/adiatiayu/open-source-and-git-glossary-mn2)
 - [How to Communicate Better in Open Source](https://dev.to/adiatiayu/how-to-communicate-better-in-open-source-3hdj)
+- [How to Become a Better Open Source Maintainer](https://dev.to/adiatiayu/how-to-become-a-better-open-source-maintainer-464f)
 
 <br>
 
