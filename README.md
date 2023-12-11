@@ -102,8 +102,8 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 #### [OpenSauced](https://opensauced.pizza/)
 
-- **[open-sauced / docs](https://github.com/open-sauced/docs)**: Documentation of OpenSauced
-- **[open-sauced / intro](https://github.com/open-sauced/intro)**: Intro to Open Source course with OpenSauced
+- **[open-sauced / docs](https://github.com/open-sauced/docs)**: OpenSauced's documentation.
+- **[open-sauced / intro](https://github.com/open-sauced/intro)**: Intro to Open Source course with OpenSauced.
 - **[open-sauced / guestbook](https://github.com/open-sauced/guestbook)**: A place for people who have taken OpenSauced's "Intro to Open Source" course to take their first steps into contributing to open source.
 - **[open-sauced / pizza-verse](https://github.com/open-sauced/pizza-verse)**: A collaborative project to contribute pizza-related content.
 
