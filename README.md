@@ -174,6 +174,7 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   </summary>
    <h4>2023</h4>
    <ul>
+     <li><a href="https://www.freecodecamp.org/news/top-open-source-contributors-2023#publication-top-contributors">Publication Top Contributors</a> of <a href="https://www.freecodecamp.org/news/top-open-source-contributors-2023/">freeCodeCamp's Top Open Source Contributors of 2023</a></li> — November 2023
      <li><a href="https://dev.to/codenewbieteam/top-featured-codenewbie-posts-81723-48i4">Top Featured CodeNewbie Posts (8/17/23)</a> — August 2023
        <ul>
          <li><a href="https://dev.to/adiatiayu/how-to-communicate-better-in-open-source-3hdj">How to Communicate Better in Open Source</a></li>
