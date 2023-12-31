@@ -205,8 +205,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   </summary>
   <h4>2023</h4>
   <ul>
+    <li><a href="https://virtualcoffee.io/podcast/ayu-dominic-hacktoberfest-is-coming-preptember-is-here">Ayu & Dominic - Hacktoberfest is Coming, Preptember is Here! — Virtual Coffee Podcast Season 9, Episode 1)</a></li>
     <li><a href="https://www.womenwhocode.com/blog/career-nav-34-the-power-of-communities-for-self-taught-developers">The Power of Communities for Self-Taught Developers — Women Who Code Career Nav Podcast</a></li>
-    <li><a href="https://virtualcoffee.io/podcast/ayu-dominic-hacktoberfest-is-coming-preptember-is-here">Guest on Virtual Coffee podcast (S9/Ep.1) — Ayu & Dominic - Hacktoberfest is Coming, Preptember is Here!</a></li>
+    <li><a href="https://www.youtube.com/watch?v=H5CFd3WrRmI">TCL-58: Final Demo and Final Retro</a></li>
+    <li><a href="https://www.youtube.com/watch?v=taZMcPSiNmA">TCL 58: Week 7 - Demos & Accessibility Learning Module</a></li>
+    <li><a href="https://www.youtube.com/watch?v=gEndS1vLC1A">TCL-58: Week 6 - Demos, Retros, and introducing the last issue - styling!</a></li>
   </ul>
   <h4>2022</h4>
   <ul>
@@ -218,7 +221,7 @@ The highlights of my PR and issue contributions are available on my [Highlights 
     <li><a href="https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be">Recess Video on CodeLand 2021</a></li>
     <li><a href="https://www.youtube.com/watch?v=MIY3c2fh8xo">TCL-35: Weekly Sync 8 - Final Demo and Retro</a></li>
     <li><a href="https://www.youtube.com/watch?v=RGufaZFAJA8">TCL-35: Weekly Sync 6 - Demos and Retros</a></li>
-    <li><a href="https://virtualcoffee.io/podcast/0303-ayu-adiati/">Guest on Virtual Coffee podcast (S3/Ep.3) — Ayu Adiati - Working through burnout as a self-taught developer</a></li>
+    <li><a href="https://virtualcoffee.io/podcast/0303-ayu-adiati/">Ayu Adiati - Working through burnout as a self-taught developer — Virtual Coffee Podcast Season 3, Episode 3</a></li>
   </ul>
 </details>
 
