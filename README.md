@@ -14,9 +14,7 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 :sparkles: When I'm not coding, you'll find me enjoying precious moments with my daughter, capturing memories with my DSLR camera, getting creative with bullet/scrap journaling, or simply relaxing with a good movie.
 
-☕ I'm obsessed with **ICED** (Caramel Macchiato) Latte! Whether the sun is shining or snow is falling, I can't resist the deliciousness of that drink. It's my go-to beverage for all seasons!
-
-🤓 I'm totally a lifelong learner. Problem-solving gets me all pumped up, and when I crack a solution, you might just catch me doing a little happy dance! :penguin:
+☕ I'm obsessed with **ICED** coffee! It's my go-to beverage for all seasons!
 
 ## Let's connect! 👇🏼
 
