@@ -116,10 +116,7 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 
 #### Dev.to
 
-- [Building Your Brand as a Developer Through Open Source](https://dev.to/adiatiayu/building-your-brand-as-a-developer-through-open-source-djl)
-- [Open Source and Git Glossary](https://dev.to/adiatiayu/open-source-and-git-glossary-mn2)
-- [How to Communicate Better in Open Source](https://dev.to/adiatiayu/how-to-communicate-better-in-open-source-3hdj)
-- [How to Become a Better Open Source Maintainer](https://dev.to/adiatiayu/how-to-become-a-better-open-source-maintainer-464f)
+- [Open Source series](https://dev.to/adiatiayu/series/15234)
 
 <br>
 
