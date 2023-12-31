@@ -100,21 +100,7 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 ### 🔧 Maintainer
 
-#### [OpenSauced](https://opensauced.pizza/)
-
-- **[open-sauced / docs](https://github.com/open-sauced/docs)**: OpenSauced's documentation.
-- **[open-sauced / intro](https://github.com/open-sauced/intro)**: Intro to Open Source course with OpenSauced.
-- **[open-sauced / guestbook](https://github.com/open-sauced/guestbook)**: A place for people who have taken OpenSauced's "Intro to Open Source" course to take their first steps into contributing to open source.
-- **[open-sauced / pizza-verse](https://github.com/open-sauced/pizza-verse)**: A collaborative project to contribute pizza-related content.
-
-#### [Virtual Coffee](https://virtualcoffee.io)
-
-- **[Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)**: Transcripts for Virtual Coffee podcast.
-- **[Virtual-Coffee / vc-preptember](https://github.com/Virtual-Coffee/vc-preptember)**: A special repository for Virtual Coffee members to prepare themselves for Hacktoberfest by practicing open source.
-
-#### [SheSharp](https://www.shesharp.co/)
-
-[All project repositories](https://github.com/shesharpnl) of SheSharp community.
+You can find the list of repositories that I maintain on my [Insights Page](https://app.opensauced.pizza/pages/adiati98/1122/dashboard?range=30) at OpenSauced.
 
 ### 🤝 Contributor
 
