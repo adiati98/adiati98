@@ -2,11 +2,11 @@
 
 # Hi there! I'm Ayu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I'm a front-end developer and a tech blogger based in the Netherlands, and I absolutely *love* what I do. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
+I'm a front-end developer based in the Netherlands. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
-I **love learning something new**! And I love to **share my learnings and experiences** with others through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu). It's my way of giving back, spreading knowledge, and learning together.
+I **love learning something new** and **sharing my learnings and experiences** with others through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu). It's my way of giving back, spreading knowledge, and learning together.
 
-But there's more to me than just coding and blogging. I deeply value **collaborations, open source contributions, and being an active part of the tech communities**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
+But there's more to me than just coding and blogging. I deeply value **collaborations**. I have big interest in **open source**, and enjoy being an active part of the **tech communities**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
 
 ## Fun Fact
       
@@ -205,7 +205,7 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   </summary>
   <h4>2023</h4>
   <ul>
-    <li><a href="https://virtualcoffee.io/podcast/ayu-dominic-hacktoberfest-is-coming-preptember-is-here">Ayu & Dominic - Hacktoberfest is Coming, Preptember is Here! — Virtual Coffee Podcast Season 9, Episode 1)</a></li>
+    <li><a href="https://virtualcoffee.io/podcast/ayu-dominic-hacktoberfest-is-coming-preptember-is-here">Ayu & Dominic - Hacktoberfest is Coming, Preptember is Here! — Virtual Coffee Podcast Season 9, Episode 1</a></li>
     <li><a href="https://www.womenwhocode.com/blog/career-nav-34-the-power-of-communities-for-self-taught-developers">The Power of Communities for Self-Taught Developers — Women Who Code Career Nav Podcast</a></li>
     <li><a href="https://www.youtube.com/watch?v=H5CFd3WrRmI">TCL-58: Final Demo and Final Retro</a></li>
     <li><a href="https://www.youtube.com/watch?v=taZMcPSiNmA">TCL 58: Week 7 - Demos & Accessibility Learning Module</a></li>
