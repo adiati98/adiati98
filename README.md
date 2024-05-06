@@ -133,11 +133,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- `2023-11-30` | [How to Become a Better Open Source Maintainer](https://adiati.com/how-to-become-a-better-open-source-maintainer)  
-- `2023-11-22` | [How to Resolve Merge Conflicts Using the Merge Editor Feature on VS Code](https://adiati.com/how-to-resolve-merge-conflicts-using-the-merge-editor-feature-on-vs-code)  
-- `2023-11-21` | [Building Your Brand as a Developer Through Open Source](https://adiati.com/building-your-brand-as-a-developer-through-open-source)  
-- `2023-09-11` | [#100DaysOfOSS Recap: Day 28-50](https://adiati.com/100daysofoss-recap-day-28-50)  
-- `2023-08-30` | [Open Source and Git Glossary](https://adiati.com/open-source-and-git-glossary)  
+- `2024-04-30` | [Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects](https://dev.to/opensauced/building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects-oaj)  
+- `2024-04-23` | [The Secret Recipe to Getting Your Pull Requests Reviewed &lpar;and Merged&rpar; Faster](https://dev.to/opensauced/the-secret-recipe-to-getting-your-pull-requests-reviewed-and-merged-faster-1fag)  
+- `2024-04-18` | [The Missing Piece: Why Your Project Needs a Maintainer Onboarding Process](https://dev.to/opensauced/the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process-np0)  
+- `2024-03-05` | [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)  
+- `2024-02-29` | [Join Virtual Coffee in the Get Job Ready Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-get-job-ready-challenge-44ki)  
 
 <!-- BLOG-POST-LIST:END -->
 
