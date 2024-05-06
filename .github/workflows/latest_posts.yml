@@ -8,12 +8,13 @@ jobs:
    name: Update this repo's README with latest blog posts
    runs-on: ubuntu-latest
    steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         # Replace this URL with your rss feed URL/s
-         feed_list: "https://adiati.com/rss.xml"
-         max_post_count: 5
-         template: "- `$date` | [$title]($url)  $newline"
-         date_format: yyyy-mm-dd
-         tag_post_pre_newline: true
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/adiatiayu,https://adiati.com/rss.xml"
+          max_post_count: 5
+          template: "- `$date` | [$title]($url)  $newline"
+          date_format: yyyy-mm-dd
+          tag_post_pre_newline: true
