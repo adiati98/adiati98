@@ -133,11 +133,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-23` | [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://adiati.com/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects)  
 - `2024-05-21` | [From Contributor to Maintainer: My Journey in Open Source](https://dev.to/adiatiayu/from-contributor-to-maintainer-my-journey-in-open-source-1lif)  
 - `2024-05-20` | [From Contributor to Maintainer: My Journey in Open Source](https://adiati.com/from-contributor-to-maintainer-my-journey-in-open-source)  
 - `2024-05-09` | [Streamline Your Contributions: Mastering Issue Forms and PR Templates](https://dev.to/opensauced/streamline-your-contributions-mastering-issue-forms-and-pr-templates-36j5)  
 - `2024-04-30` | [Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects](https://dev.to/opensauced/building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects-oaj)  
-- `2024-04-23` | [The Secret Recipe to Getting Your Pull Requests Reviewed &lpar;and Merged&rpar; Faster](https://dev.to/opensauced/the-secret-recipe-to-getting-your-pull-requests-reviewed-and-merged-faster-1fag)  
 
 <!-- BLOG-POST-LIST:END -->
 
