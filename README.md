@@ -133,11 +133,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2024-05-31` | [Monthly Challenge: Mid-Year Check-In — Recharge and Refocus for an Amazing Second Half!](https://dev.to/virtualcoffee/monthly-challenge-mid-year-check-in-recharge-and-refocus-for-an-amazing-second-half-2k4c)  
 - `2024-05-30` | [The Missing Piece: Why Your Project Needs a Maintainer Onboarding Process](https://adiati.com/the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process)  
 - `2024-05-28` | [The Secret Recipe to Getting Your Pull Requests Reviewed &lpar;and Merged&rpar; Faster](https://adiati.com/the-secret-recipe-to-getting-your-pull-requests-reviewed-and-merged-faster)  
 - `2024-05-23` | [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://adiati.com/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects)  
 - `2024-05-21` | [From Contributor to Maintainer: My Journey in Open Source](https://dev.to/adiatiayu/from-contributor-to-maintainer-my-journey-in-open-source-1lif)  
-- `2024-05-20` | [From Contributor to Maintainer: My Journey in Open Source](https://adiati.com/from-contributor-to-maintainer-my-journey-in-open-source)  
 
 <!-- BLOG-POST-LIST:END -->
 
