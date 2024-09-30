@@ -133,11 +133,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-30` | [Hacktoberfest 2024: Why You Should Participate](https://dev.to/virtualcoffee/hacktoberfest-2024-why-you-should-participate-4ffm)  
 - `2024-07-01` | [Monthly Challenge: Welcoming Community!](https://dev.to/virtualcoffee/monthly-challenge-welcoming-community-4d44)  
 - `2024-06-06` | [Streamline Your Contributions: Mastering Issue Forms and PR Templates](https://adiati.com/fill-in-issue-forms-and-pr-templates)  
 - `2024-06-04` | [Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects](https://adiati.com/building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects)  
 - `2024-05-31` | [Monthly Challenge: Mid-Year Check-In — Recharge and Refocus for an Amazing Second Half!](https://dev.to/virtualcoffee/monthly-challenge-mid-year-check-in-recharge-and-refocus-for-an-amazing-second-half-2k4c)  
-- `2024-05-30` | [The Missing Piece: Why Your Project Needs a Maintainer Onboarding Process](https://adiati.com/the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process)  
 
 <!-- BLOG-POST-LIST:END -->
 
