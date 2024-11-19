@@ -133,11 +133,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2024-11-19` | [Open Source is For Everyone: First Experience in Non-Code Contribution to Mautic during Hacktoberfest 2024](https://dev.to/adiatiayu/open-source-is-for-everyone-first-experience-in-non-code-contribution-to-mautic-during-4oph)  
+- `2024-11-19` | [Open Source is For Everyone: First Experience in Non-Code Contribution to Mautic during Hacktoberfest 2024](https://adiati.com/open-source-is-for-everyone)  
 - `2024-11-03` | [Hacktoberfest 2024: My 2nd Year Experience as A Maintainer](https://dev.to/adiatiayu/hacktoberfest-2024-my-2nd-year-experience-as-a-maintainer-n7f)  
 - `2024-09-30` | [Hacktoberfest 2024: Why You Should Participate](https://dev.to/virtualcoffee/hacktoberfest-2024-why-you-should-participate-4ffm)  
 - `2024-07-01` | [Monthly Challenge: Welcoming Community!](https://dev.to/virtualcoffee/monthly-challenge-welcoming-community-4d44)  
-- `2024-06-06` | [Streamline Your Contributions: Mastering Issue Forms and PR Templates](https://adiati.com/fill-in-issue-forms-and-pr-templates)  
-- `2024-06-04` | [Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects](https://adiati.com/building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects)  
 
 <!-- BLOG-POST-LIST:END -->
 
