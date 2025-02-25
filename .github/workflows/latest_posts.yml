@@ -13,7 +13,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/adiatiayu,https://adiati.com/rss.xml"
+          feed_list: "https://dev.to/feed/adiatiayu"
           max_post_count: 5
           template: "- `$date` | [$title]($url)  $newline"
           date_format: yyyy-mm-dd
