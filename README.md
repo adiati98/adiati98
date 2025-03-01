@@ -32,17 +32,7 @@ I also enjoy being active in tech communities and contributing to open source pr
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-## 💻 Technical Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-  <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
-  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
-</div>
-
-## 📄 Documentation Skills & Tools
+## 💻 Skills & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Markdown-F3F7FA?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Markdown">
@@ -51,7 +41,13 @@ I also enjoy being active in tech communities and contributing to open source pr
   <img src="https://img.shields.io/badge/-docsify-F3F7FA?logo=docsify&logoColor=2ECE53&style=for-the-badge&logoWidth=30" alt="Docsify">
 </div>
 
-## 🛠️ Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
+  <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
@@ -137,8 +133,12 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 
 <details>
   <summary>
-    <h3>✍ Writer</h3>
+    <h3>✍ Writing</h3>
   </summary>
+  <h4>2024</h4>
+  <ul>
+    <li>Created and launched the <a href="https://opensauced.pizza/learn/becoming-a-maintainer/">Becoming a Maintainer course</a> with Docs Maintainer Team at OpenSauced.</li> — May 2024
+  </ul>
   <h4>2023</h4>
   <ul>
     <li><a href="https://www.freecodecamp.org/news/top-open-source-contributors-2023#publication-top-contributors">Publication Top Contributors</a> of <a href="https://www.freecodecamp.org/news/top-open-source-contributors-2023/">freeCodeCamp's Top Open Source Contributors of 2023</a></li> — November 2023
@@ -147,7 +147,6 @@ The highlights of my PR and issue contributions are available on my [Highlights 
         <li><a href="https://dev.to/adiatiayu/how-to-communicate-better-in-open-source-3hdj">How to Communicate Better in Open Source</a></li>
       </ul>
     </li>
-    <li><a href="https://blog.polywork.com/ayu-adiati-interview/">How Ayu Adiati found a dev community — and herself in the process</a> — July 2023</li>
     <li><a href="https://adiati.com/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community">Tips From A Shy Introvert: How To Engage And Get More Involved In A Community</a> won January's Blog-a-thon challenge by CoCode and Hashnode — <a href="https://twitter.com/thecocode/status/1621042854436179970">January</a> 2023</li>
   </ul>
   <h4>2022</h4>
@@ -185,15 +184,21 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 
 <details>
   <summary>
-    <h3>🗣 Speaking Engagements</h3>
+    <h3>🎙️ Talks & Podcasts</h3>
   </summary>
+  <h4>2024</h4>
+  <ul>
+    <li><a href="https://youtu.be/a-wrAFiBqFI">Becoming an Open Source Maintainer Workshop — Virtual Coffee Lunch & Learns</a></li>
+    <li><a href="https://youtu.be/KoVX3kGMn3c">Intro to Open Source Workshop — Virtual Coffee Lunch & Learns</a></li>
+    <li><a href="https://www.youtube.com/live/pzLXQYZpOPU?si=1WT3isjqMVISTfDj&t=5368">Building Bridges, Not Walls: The Importance of Documentation in Open Source Projects — Virtual Coffee Lightning Talks 2024</a></li>
+  </ul>
   <h4>2023</h4>
   <ul>
     <li><a href="https://virtualcoffee.io/podcast/ayu-dominic-hacktoberfest-is-coming-preptember-is-here">Ayu & Dominic - Hacktoberfest is Coming, Preptember is Here! — Virtual Coffee Podcast Season 9, Episode 1</a></li>
     <li><a href="https://www.womenwhocode.com/blog/career-nav-34-the-power-of-communities-for-self-taught-developers">The Power of Communities for Self-Taught Developers — Women Who Code Career Nav Podcast</a></li>
-    <li><a href="https://www.youtube.com/watch?v=H5CFd3WrRmI">TCL-58: Final Demo and Final Retro</a></li>
+    <!-- <li><a href="https://www.youtube.com/watch?v=H5CFd3WrRmI">TCL-58: Final Demo and Final Retro</a></li>
     <li><a href="https://www.youtube.com/watch?v=taZMcPSiNmA">TCL 58: Week 7 - Demos & Accessibility Learning Module</a></li>
-    <li><a href="https://www.youtube.com/watch?v=gEndS1vLC1A">TCL-58: Week 6 - Demos, Retros, and introducing the last issue - styling!</a></li>
+    <li><a href="https://www.youtube.com/watch?v=gEndS1vLC1A">TCL-58: Week 6 - Demos, Retros, and introducing the last issue - styling!</a></li> -->
   </ul>
   <h4>2022</h4>
   <ul>
@@ -202,9 +207,9 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   </ul>
   <h4>2021</h4>
   <ul>
-    <li><a href="https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be">Recess Video on CodeLand 2021</a></li>
+    <!-- <li><a href="https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be">Recess Video on CodeLand 2021</a></li>
     <li><a href="https://www.youtube.com/watch?v=MIY3c2fh8xo">TCL-35: Weekly Sync 8 - Final Demo and Retro</a></li>
-    <li><a href="https://www.youtube.com/watch?v=RGufaZFAJA8">TCL-35: Weekly Sync 6 - Demos and Retros</a></li>
+    <li><a href="https://www.youtube.com/watch?v=RGufaZFAJA8">TCL-35: Weekly Sync 6 - Demos and Retros</a></li> -->
     <li><a href="https://virtualcoffee.io/podcast/0303-ayu-adiati/">Ayu Adiati - Working through burnout as a self-taught developer — Virtual Coffee Podcast Season 3, Episode 3</a></li>
   </ul>
 </details>
