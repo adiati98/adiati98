@@ -143,7 +143,6 @@ The highlights of my PR and issue contributions are available on my [Highlights 
         <li><a href="https://dev.to/adiatiayu/how-to-communicate-better-in-open-source-3hdj">How to Communicate Better in Open Source</a></li>
       </ul>
     </li>
-    <li><a href="https://blog.polywork.com/ayu-adiati-interview/">How Ayu Adiati found a dev community — and herself in the process</a> — July 2023</li>
     <li><a href="https://adiati.com/tips-from-a-shy-introvert-how-to-engage-and-get-more-involved-in-a-community">Tips From A Shy Introvert: How To Engage And Get More Involved In A Community</a> won January's Blog-a-thon challenge by CoCode and Hashnode — <a href="https://twitter.com/thecocode/status/1621042854436179970">January</a> 2023</li>
   </ul>
   <h4>2022</h4>
