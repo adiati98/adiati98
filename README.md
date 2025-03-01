@@ -133,7 +133,7 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 
 <details>
   <summary>
-    <h3>✍ Writer</h3>
+    <h3>✍ Writing</h3>
   </summary>
   <h4>2023</h4>
   <ul>
@@ -180,7 +180,7 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 
 <details>
   <summary>
-    <h3>🗣 Speaking Engagements</h3>
+    <h3>🎙️ Talks & Podcasts</h3>
   </summary>
   <h4>2023</h4>
   <ul>
