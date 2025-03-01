@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
 
-![Ayu Tech Writing Banner](https://github.com/user-attachments/assets/dddebafe-f9dd-40f7-b028-0d87abd73c92)
+![Ayu Tech Writing Banner](https://github.com/user-attachments/assets/52a123aa-b4f4-4803-a8cd-fb804e8ae3d1)
 
 # Heya! I'm Ayu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand wave GIF" width="35px">
 
