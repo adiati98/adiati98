@@ -32,17 +32,7 @@ I also enjoy being active in tech communities and contributing to open source pr
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-## 💻 Technical Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-  <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
-  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
-</div>
-
-## 📄 Documentation Skills & Tools
+## 💻 Skills & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Markdown-F3F7FA?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Markdown">
@@ -51,7 +41,13 @@ I also enjoy being active in tech communities and contributing to open source pr
   <img src="https://img.shields.io/badge/-docsify-F3F7FA?logo=docsify&logoColor=2ECE53&style=for-the-badge&logoWidth=30" alt="Docsify">
 </div>
 
-## 🛠️ Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
+  <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
