@@ -5,7 +5,7 @@
 
 # Heya! I'm Ayu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand wave GIF" width="35px">
 
-My tech journey began in 2019 when I first learned HTML. Over the years, I've discovered a passion for technical writing, open source, and getting involved in tech communities.
+My tech journey began in 2019 when I first learned HTML, but it’s turned into so much more than just coding. Over the years, I've discovered a passion for technical writing, open source, and getting involved in tech communities.
 
 I'm a **tech blogger** who loves to learn new stuff and share my findings on [my blog](https://adiati.com) and other platforms like DEV, freeCodeCamp, and Hashnode.
 
