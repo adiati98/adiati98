@@ -135,6 +135,10 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   <summary>
     <h3>✍ Writing</h3>
   </summary>
+  <h4>2024</h4>
+  <ul>
+    <li>Created and launched the <a href="https://opensauced.pizza/learn/becoming-a-maintainer/">Becoming a Maintainer course</a> with Docs Maintainer Team at OpenSauced.</li> — May 2024
+  </ul>
   <h4>2023</h4>
   <ul>
     <li><a href="https://www.freecodecamp.org/news/top-open-source-contributors-2023#publication-top-contributors">Publication Top Contributors</a> of <a href="https://www.freecodecamp.org/news/top-open-source-contributors-2023/">freeCodeCamp's Top Open Source Contributors of 2023</a></li> — November 2023
