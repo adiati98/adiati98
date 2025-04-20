@@ -188,6 +188,10 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   <summary>
     <h3>🎙️ Talks & Podcasts</h3>
   </summary>
+  <h4>2025</h4>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=aAXkw1UaEtg&t=4877s">From Notes to Leadership: My Tech Writing Evolution — International Women’s Day (IWD) 2025: Redefine Possible | Virtual - Women Techmakers Vienna</a></li>
+  </ul>
   <h4>2024</h4>
   <ul>
     <li><a href="https://youtu.be/a-wrAFiBqFI">Becoming an Open Source Maintainer Workshop — Virtual Coffee Lunch & Learns</a></li>
