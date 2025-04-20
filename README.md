@@ -5,11 +5,13 @@
 
 # Heya! I'm Ayu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand wave GIF" width="35px">
 
-My tech journey began in 2019 when I first learned HTML, but it’s turned into so much more than just coding. Over the years, I've discovered a passion for technical writing, open source, and getting involved in tech communities.
+I'm Indonesian and I live in The Netherlands.
+
+My tech journey began a few years ago when I first learned HTML, followed by CSS, JavaScript, and React. Over the years, some parts of tech have become my happy place and where I grow. I'm talking about technical writing (particularly documentation), open source, and tech communities.
 
 I'm a **tech blogger** who loves to learn new stuff and share my findings on [my blog](https://adiati.com) and other platforms like DEV, freeCodeCamp, and Hashnode.
 
-I also enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Documentation and Monthly Challenge Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also part of the **Docs Maintainer Team** at [OpenSauced](https://github.com/open-sauced).
+I enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Documentation and Monthly Challenge Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also a maintainer for some open source projects.
 
 ## Fun Facts
 
