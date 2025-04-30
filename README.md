@@ -117,11 +117,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2025-04-30` | [Goals Check-In: How&#39;s Your Progress Flowing?](https://dev.to/virtualcoffee/goals-check-in-hows-your-progress-flowing-2a45)  
 - `2025-01-26` | [Hello, 2025: The One Big Goal](https://dev.to/adiatiayu/hello-2025-the-one-big-goal-2h03)  
 - `2025-01-09` | [Thank You, 2024: The Challenges and Achievements](https://dev.to/adiatiayu/thank-you-2024-the-challenges-and-achievements-2loj)  
 - `2024-12-30` | [Join Virtual Coffee in New Year, New Goal: Setting One Big Goal and Achieving It!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goal-setting-one-big-goal-and-achieving-it-30c5)  
 - `2024-11-30` | [Monthly Challenge: Creative Community Challenge!](https://dev.to/virtualcoffee/monthly-challenge-creative-community-challenge-273l)  
-- `2024-11-19` | [Open Source is For Everyone: First Experience in Non-Code Contribution to Mautic during Hacktoberfest 2024](https://dev.to/adiatiayu/open-source-is-for-everyone-first-experience-in-non-code-contribution-to-mautic-during-4oph)  
 
 <!-- BLOG-POST-LIST:END -->
 
