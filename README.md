@@ -137,6 +137,14 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   <summary>
     <h3>✍ Writing</h3>
   </summary>
+  <h4>2025</h4>
+  <ul>
+    <li>Top 7 DEV — <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an">October</a> 2025
+      <ul>
+        <li><a href="https://dev.to/adiatiayu/how-i-built-a-curated-automated-open-source-portfolio-18o0">How I Built a Curated, Automated Open Source Portfolio</a> — October 2025</li>
+      </ul>
+    </li>
+  </ul>
   <h4>2024</h4>
   <ul>
     <li>Created and launched the <a href="https://opensauced.pizza/learn/becoming-a-maintainer/">Becoming a Maintainer course</a> with Docs Maintainer Team at OpenSauced.</li> — May 2024
