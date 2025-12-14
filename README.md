@@ -117,11 +117,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2025-12-10` | [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)  
 - `2025-10-27` | [Beyond Hacktoberfest: Building a True Open Source Journey](https://dev.to/adiatiayu/beyond-hacktoberfest-building-a-true-open-source-journey-3pci)  
 - `2025-10-22` | [My First Video Tutorials Contribution for Hacktoberfest](https://dev.to/adiatiayu/my-first-video-tutorials-contribution-for-hacktoberfest-3blg)  
 - `2025-10-15` | [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj)  
 - `2025-10-13` | [Hacktoberfest: Making it Enjoyable for Contributors and Maintainers](https://dev.to/adiatiayu/hacktoberfest-making-it-enjoyable-for-contributors-and-maintainers-54gk)  
-- `2025-10-06` | [How I Built a Curated, Automated Open Source Portfolio](https://dev.to/adiatiayu/how-i-built-a-curated-automated-open-source-portfolio-18o0)  
 
 <!-- BLOG-POST-LIST:END -->
 
