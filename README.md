@@ -11,7 +11,7 @@ My tech journey began a few years ago when I first learned HTML, followed by CSS
 
 I'm a **tech blogger** who loves to learn new stuff and share my findings on [my blog](https://adiati.com) and other platforms like DEV, freeCodeCamp, and Hashnode.
 
-I enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Documentation and Monthly Challenge Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also a maintainer for some open source projects.
+I enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Education Team Lead** at [Mautic](https://mautic.org/leadership/), the **Documentation Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also a maintainer for some open source projects. See my work and contributions in open source at my [Curated Open Source Portfolio](https://curated-oss-portfolio.netlify.app/all-contributions).
 
 ## Fun Facts
 
@@ -225,6 +225,16 @@ The highlights of my PR and issue contributions are available on my [Highlights 
     <li><a href="https://www.youtube.com/watch?v=MIY3c2fh8xo">TCL-35: Weekly Sync 8 - Final Demo and Retro</a></li>
     <li><a href="https://www.youtube.com/watch?v=RGufaZFAJA8">TCL-35: Weekly Sync 6 - Demos and Retros</a></li> -->
     <li><a href="https://virtualcoffee.io/podcast/0303-ayu-adiati/">Ayu Adiati - Working through burnout as a self-taught developer — Virtual Coffee Podcast Season 3, Episode 3</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h3>👥 Community</h3>
+  </summary>
+  <h4>2025</h4>
+  <ul>
+    <li>Mautician of The Year Award at Mautic — 2025</li>
   </ul>
 </details>
 
