@@ -11,7 +11,10 @@ My tech journey began a few years ago when I first learned HTML, followed by CSS
 
 I'm a **tech blogger** who loves to learn new stuff and share my findings on [my blog](https://adiati.com) and other platforms like DEV, freeCodeCamp, and Hashnode.
 
-I enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Education Team Lead** at [Mautic](https://mautic.org/leadership/), the **Documentation Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also a maintainer for some open source projects. See my work and contributions in open source at my [Curated Open Source Portfolio](https://curated-oss-portfolio.netlify.app/all-contributions).
+I enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Education Team Lead** at [Mautic](https://mautic.org/leadership/), the **Documentation Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also a maintainer for some open source projects. 
+
+> [!TIP]
+> View my roles and contributions in this [Curated Open Source Portfolio](https://curated-oss-portfolio.netlify.app/all-contributions).
 
 ## Fun Facts
 
@@ -135,9 +138,34 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 
 <details>
   <summary>
-    <h3>✍ Writing</h3>
+    <h3>👥 Community</h3>
   </summary>
   <h4>2025</h4>
+  <ul>
+    <li>Mautician of The Year Award at Mautic — 2025</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h3>✍ Writing</h3>
+  </summary>
+  <h4>2026</h4>
+  <ul>
+    <li>Top 7 DEV — <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc">April</a> 2026
+      <ul>
+        <li><a href="https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98">The Curated, Automated Open Source Portfolio: How It’s Going</a> — April 2026</li>
+      </ul>
+    </li>
+  </ul>
+  <h4>2025</h4>
+  <ul>
+    <li><a href="https://dev.to/devteam/congrats-to-the-2025-hacktoberfest-writing-challenge-winners-1hpn/#open-source-reflections-winners">Open Source Reflections Winners</a> of DEV Hacktoberfest Writing Challenge — November 2025
+      <ul>
+        <li><a href="https://dev.to/adiatiayu/beyond-hacktoberfest-building-a-true-open-source-journey-3pci">Beyond Hacktoberfest: Building a True Open Source Journey</a></li>
+      </ul>
+    </li>
+  </ul>
   <ul>
     <li>Top 7 DEV — <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an">October</a> 2025
       <ul>
@@ -147,7 +175,7 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   </ul>
   <h4>2024</h4>
   <ul>
-    <li>Created and launched the <a href="https://opensauced.pizza/learn/becoming-a-maintainer/">Becoming a Maintainer course</a> with Docs Maintainer Team at OpenSauced.</li> — May 2024
+    <li>Co-authored and launched the <a href="https://opensauced.pizza/learn/becoming-a-maintainer/">Becoming a Maintainer course</a></li> — May 2024
   </ul>
   <h4>2023</h4>
   <ul>
@@ -225,16 +253,6 @@ The highlights of my PR and issue contributions are available on my [Highlights 
     <li><a href="https://www.youtube.com/watch?v=MIY3c2fh8xo">TCL-35: Weekly Sync 8 - Final Demo and Retro</a></li>
     <li><a href="https://www.youtube.com/watch?v=RGufaZFAJA8">TCL-35: Weekly Sync 6 - Demos and Retros</a></li> -->
     <li><a href="https://virtualcoffee.io/podcast/0303-ayu-adiati/">Ayu Adiati - Working through burnout as a self-taught developer — Virtual Coffee Podcast Season 3, Episode 3</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>
-    <h3>👥 Community</h3>
-  </summary>
-  <h4>2025</h4>
-  <ul>
-    <li>Mautician of The Year Award at Mautic — 2025</li>
   </ul>
 </details>
 
