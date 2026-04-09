@@ -33,9 +33,13 @@ I enjoy being active in tech communities and contributing to open source project
   <a href="https://www.freecodecamp.org/news/author/adiatiayu/"><img src="https://img.shields.io/badge/-freeCodeCamp-F3F7FA?logo=freecodecamp&logoColor=0A0A23&style=for-the-badge&logoWidth=30" alt="freeCodeCamp"></a>
 </div>
 
+<!--
+
 <br>
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
+
+-->
 
 ## 💻 Skills & Tools
 
@@ -59,10 +63,6 @@ I enjoy being active in tech communities and contributing to open source project
   <img src="https://img.shields.io/badge/-Visual Studio Code-FB750B?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
 </div>
-
-<br>
-
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 <!--
 
@@ -111,28 +111,17 @@ The highlights of my PR and issue contributions are available on my [Highlights 
   <img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=C7CCFF&show_icons=true&icon_color=25FB88&custom_title=My GitHub Stats""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats Ayu Adiati">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=adiati98&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak Ayu Adiati">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiati98&layout=compact&hide=pug, handlebars&card_width=450&custom_title=Ayu Adiati's Most Use Languages&hide_border=true&bg_color=030D6B&title_color=FB750B&text_color=C7CCFF""https://github.com/anuraghazra/github-readme-stats" alt="Top language Ayu Adiati">
-</div>
+</div> -->
 
 <br>
-
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg) -->
-
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- `2026-04-01` | [The Curated, Automated Open Source Portfolio: How It’s Going](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98)  
-- `2025-12-10` | [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)  
-- `2025-10-27` | [Beyond Hacktoberfest: Building a True Open Source Journey](https://dev.to/adiatiayu/beyond-hacktoberfest-building-a-true-open-source-journey-3pci)  
-- `2025-10-22` | [My First Video Tutorials Contribution for Hacktoberfest](https://dev.to/adiatiayu/my-first-video-tutorials-contribution-for-hacktoberfest-3blg)  
-- `2025-10-15` | [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj)  
-
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog, articles](https://adiati.com)
 
 <br>
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
+
+<br>
+
+<br>
 
 ## 🏆 Accomplishments
 
@@ -255,6 +244,25 @@ The highlights of my PR and issue contributions are available on my [Highlights 
     <li><a href="https://virtualcoffee.io/podcast/0303-ayu-adiati/">Ayu Adiati - Working through burnout as a self-taught developer — Virtual Coffee Podcast Season 3, Episode 3</a></li>
   </ul>
 </details>
+
+---
+
+## 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- `2026-04-01` | [The Curated, Automated Open Source Portfolio: How It’s Going](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98)  
+- `2025-12-10` | [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)  
+- `2025-10-27` | [Beyond Hacktoberfest: Building a True Open Source Journey](https://dev.to/adiatiayu/beyond-hacktoberfest-building-a-true-open-source-journey-3pci)  
+- `2025-10-22` | [My First Video Tutorials Contribution for Hacktoberfest](https://dev.to/adiatiayu/my-first-video-tutorials-contribution-for-hacktoberfest-3blg)  
+- `2025-10-15` | [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj)  
+
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog, articles](https://adiati.com)
+
+<br>
+
+<br>
 
 <!-- <br>
 
