@@ -14,7 +14,7 @@ I'm a **tech blogger** who loves to learn new stuff and share my findings on [my
 I enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Education Team Lead** at [Mautic](https://mautic.org/leadership/), the **Documentation Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also a maintainer for some open source projects. 
 
 > [!TIP]
-> View my roles and contributions in this [Curated Open Source Portfolio](https://curated-oss-portfolio.netlify.app/all-contributions).
+> View my roles and contributions in this [Curated Open Source Portfolio](https://curated-oss-portfolio.netlify.app/).
 
 ## Fun Facts
 
