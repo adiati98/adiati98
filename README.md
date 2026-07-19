@@ -250,11 +250,11 @@ The highlights of my PR and issue contributions are available on my [Highlights 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2026-07-16` | [Wanted: Beginners-Friendly Open Source Projects](https://dev.to/adiatiayu/wanted-beginners-friendly-open-source-projects-59k9)  
 - `2026-07-07` | [I Was Skeptical of AI. Then It Saved Me Hours of Writing.](https://dev.to/adiatiayu/i-was-skeptical-of-ai-then-it-saved-me-hours-of-writing-gc7)  
 - `2026-04-08` | [From Helping Out to Taking Ownership: The Art of Sticking Around](https://dev.to/adiatiayu/from-helping-out-to-taking-ownership-the-art-of-sticking-around-55h1)  
 - `2026-04-01` | [The Curated, Automated Open Source Portfolio: How It’s Going](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98)  
 - `2025-12-10` | [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)  
-- `2025-10-27` | [Beyond Hacktoberfest: Building a True Open Source Journey](https://dev.to/adiatiayu/beyond-hacktoberfest-building-a-true-open-source-journey-3pci)  
 
 <!-- BLOG-POST-LIST:END -->
 
