@@ -5,16 +5,17 @@
 
 # Heya! I'm Ayu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand wave GIF" width="35px">
 
-I'm Indonesian and I live in The Netherlands.
+I'm Indonesian, and I live in the Netherlands.
 
-My tech journey began a few years ago when I first learned HTML, followed by CSS, JavaScript, and React. Over the years, some parts of tech have become my happy place and where I grow. I'm talking about technical writing (particularly documentation), open source, and tech communities.
+I'm a technical writer, open source documentation lead, and community builder. My tech journey started with HTML, CSS, JavaScript, and React. Along the way, I found my happy place in technical writing (especially documentation), open source, and tech communities.
 
-I'm a **tech blogger** who loves to learn new stuff and share my findings on [my blog](https://adiati.com) and other platforms like DEV, freeCodeCamp, and Hashnode.
+I like to say I maintain people, not just repos. I review contributions, keep docs clear and up to date, and help newcomers feel welcome.
 
-I enjoy being active in tech communities and contributing to open source projects. Right now, I'm the **Education Team Lead** at [Mautic](https://mautic.org/leadership/), the **Documentation Team Lead** at the [Virtual Coffee](https://virtualcoffee.io) community, and I'm also a maintainer for some open source projects. 
+Right now, I'm the **Education Team Lead** at [Mautic](https://mautic.org/leadership/) and the **Documentation Team Lead** at [Virtual Coffee](https://virtualcoffee.io). I also maintain a few open source projects. View my roles and contributions in this [Curated Open Source Portfolio](https://adiati98.github.io/oss-portfolio/).
 
-> [!TIP]
-> View my roles and contributions in this [Curated Open Source Portfolio](https://adiati98.github.io/oss-portfolio/).
+I love to learn new things and share what I find. You can read my writing on [my blog](https://adiati.com/blog/), [DEV](https://dev.to/adiatiayu), [freeCodeCamp](https://www.freecodecamp.org/), and [Hashnode](https://hashnode.com/).
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/adiatiayu/)!
 
 ## Fun Facts
 
